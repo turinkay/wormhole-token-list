@@ -626,11 +626,11 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ibBT
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/bETH_wh.png
 ```
 
-### stETH
-![stETH](stETH_wh.png)
+### wstETH
+![wstETH](wstETH_wh.png)
 
 ```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/stETH_wh.png
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wstETH_wh.png
 ```
 
 

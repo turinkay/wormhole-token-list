@@ -1110,17 +1110,6 @@ TOKENS = {
       "coingeckoId": "wrapped-steth",
       "logo": "https://static.lido.fi/wstETH/wstETH.png"
     },
-    "stETH": {
-      "symbol": "stETH",
-      "name": "Lido Staked Ether (Wormhole)",
-      "destAddresses": {
-        "sol": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
-        "terra": "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d"
-      },
-      "sourceAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-      "coingeckoId": "lido-staked-ether",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png"
-    },
   },
 
   #####################
